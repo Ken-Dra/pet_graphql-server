@@ -1,0 +1,22 @@
+{
+  "name": "graphql-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "graphpack",
+    "build": "graphpack build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "apollo-server": "^3.6.1",
+    "graphpack": "^0.0.0",
+    "graphql-tools": "^8.2.0"
+  },
+  "dependencies": {
+    "graphql": "^15.0.0"
+  }
+}
